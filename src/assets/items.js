@@ -2,14 +2,14 @@ import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
 import linkedin from '../assets/linkedin.jpg'
 import youtube from '../assets/youtube.jpeg'
-import dribbble from '../assets/dribbble.png'
+// import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 
 const items = [{
     "title": "Website",
-    "subtitle": "My Portfolio",
+    "subtitle": "Professional Realm",
     "image": website,
     "link": "https://dishant.me" //your personal website or portfolio  link
 },
@@ -41,7 +41,7 @@ const items = [{
     "title": "YouTube",
     "subtitle": "Dishant Pandya | Realm of music",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/drpdishant"//youtube channel link 
+    "link": "https://www.youtube.com/c/DishantPandya/"//youtube channel link 
 },
 {
     "title": "Telegram",

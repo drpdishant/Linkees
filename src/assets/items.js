@@ -9,52 +9,45 @@ import twitter from '../assets/twitter.png'
 
 const items = [{
     "title": "Website",
-    "subtitle": "Look at my work!",
+    "subtitle": "My Portfolio",
     "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
+    "link": "https://dishant.me" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
+    "subtitle": "@drpdishant | 🏡 to all my open-source projects",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/drpdishant" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
+    "subtitle": "@dishant_pandya |  Shots of my life 🙂",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/dishant_pandya" //instagram profile link 
 },
 {
     "title": "Twitter",
-    "subtitle": "@heysagnik | 😉",
+    "subtitle": "@dishantpandya | 😉",
     "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
+    "link": "https://twitter.com/dishantpandya"// twitter profile link 
 },
 {
     "title": "LinkedIn",
     "subtitle": "Know more about my profession 👨‍💼",
     "image": linkedin,
-    "link": "https://www.linkedin.com/in/heysagnik/" // linkedin
+    "link": "https://www.linkedin.com/in/dishant-pandya-a58110139" // linkedin
 },
 {
     "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
+    "subtitle": "Dishant Pandya | Realm of music",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
-},
-
-{
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | shots of dezigns ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
+    "link": "https://www.youtube.com/channel/drpdishant"//youtube channel link 
 },
 {
     "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly ",
+    "subtitle": "@dishantpandya | Chat with me instantly ",
     "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://telegram.me/dishantpandya" //Telegram Pofile 
 }]
 
 export default items

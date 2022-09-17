@@ -19,7 +19,7 @@ const items = [{
     "title": "SoundCloud",
     "subtitle": "My SloundCloud Profile",
     "image": soundcloud,
-    "link": "https://music.dishantpandya.com"
+    "link": "https://soundcloud.com/dishant-pandya"
 },
 {
     "title": "Artist Portfolio",

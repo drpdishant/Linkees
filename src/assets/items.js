@@ -7,12 +7,19 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import tape from '../assets/tape.jpg'
+import soundcloud from '../assets/soundcloud.jpeg'
 
 const items = [{
     "title": "Website",
     "subtitle": "Professional Realm",
     "image": website,
     "link": "https://dishant.me" //your personal website or portfolio  link
+},
+{
+    "title": "SoundCloud",
+    "subtitle": "My SloundCloud Profile",
+    "image": soundcloud,
+    "link": "https://music.dishantpandya.com"
 },
 {
     "title": "Artist Portfolio",

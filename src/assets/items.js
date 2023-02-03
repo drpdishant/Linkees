@@ -20,7 +20,7 @@ const items = [{
     "title": "Bandlab",
     "subtitle": "My Bandlab Profile",
     "image": bandlab,
-    "link": "https://soundcloud.com/dishant-pandya"
+    "link": "https://www.bandlab.com/dishantpandya"
 },
 
 {

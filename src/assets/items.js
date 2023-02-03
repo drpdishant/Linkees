@@ -8,7 +8,7 @@ import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import tape from '../assets/tape.jpg'
 import soundcloud from '../assets/soundcloud.jpeg'
-import bandlab from 'https://www.bandlab.com/web-app/images/open-graph-4fd21aa09f.png'
+import bandlab from '../assets/open-graph-4fd21aa09f.png'
 
 const items = [{
     "title": "Website",
